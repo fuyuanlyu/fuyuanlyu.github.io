@@ -3,12 +3,11 @@
     url: https://xingt-tang.github.io/
 
 "Liu":
-  - firstname: ["Dugang"]
-    url: https://dgliu.github.io/
-
-"Liu":
   - firstname: ["Xue", "Steve"]
     url: https://www.cs.mcgill.ca/~xueliu/site/intro.html
+  
+  - firstname: ["Dugang"]
+    url: https://dgliu.github.io/
 
 "Ma":
   - firstname: ["Chen"]
