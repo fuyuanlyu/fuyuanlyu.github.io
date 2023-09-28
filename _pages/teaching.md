@@ -18,9 +18,7 @@ nav_order: 5
 ## Industrial
 
 - Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023
-  - Mentors: [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Dr. Yaochen Hu](https://scholar.google.com/citations?user=ffhjIQ4AAAAJ)
 - Research Intern, Huawei Noah’s Ark Lab, Shenzhen Research Center, Mar. 2021 ~ Aug. 2021
-  - Mentors: [Dr. Xing Tang](https://scholar.google.com/citations?user=rtRexdQAAAAJ), [Dr. Ruiming Tang](https://scholar.google.com.sg/citations?user=fUtHww0AAAAJ), [Dr. Xiuqiang He](https://scholar.google.com/citations?user=3lprwmsAAAAJ)
 
 
 ## Selected Awards
