@@ -24,3 +24,5 @@ Research Interest:
 - Automated Machine Learning
 - Recommendation System
 - Software Engineering
+
+Email: FIRST_NAME DOT LAST_NAME AT MAIL DOT MCGILL DOT CA
