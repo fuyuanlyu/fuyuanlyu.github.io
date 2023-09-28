@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-permalink: /assets/pdf/CV_Fuyuan_lyu.pdf
+permalink: /assets/pdf/CV_Fuyuan_Lyu.pdf
 redirect_from:
   - /assets/pdf/CV_Fuyuan_Lyu.pdf
 cv_pdf: example_pdf.pdf
