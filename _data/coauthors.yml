@@ -2,33 +2,34 @@
   - firstname: ["Xing"]
     url: https://xingt-tang.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Liu":
+  - firstname: ["Dugang"]
+    url: https://dgliu.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Liu":
+  - firstname: ["Xue", "Steve"]
+    url: https://www.cs.mcgill.ca/~xueliu/site/intro.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ma":
+  - firstname: ["Chen"]
+    url: https://allenjack.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Chen":
+  - firstname: ["Xi", "Alex"]
+    url: https://sites.google.com/site/xichenmcgill
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Wu":
+  - firstname: ["Haolun"]
+    url: https://haolun-wu.netlify.app/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Hu":
+  - firstname: ["Chengming"]
+    url: https://sites.google.com/view/chengminghu/home
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Diaz":
+  - firstname: ["Fernando"]
+    url: https://841.io/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Zhang":
+  - firstname: ["Rui"]
+    url: https://www.ruizhang.info/
