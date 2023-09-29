@@ -33,8 +33,11 @@
     url: https://841.io/
 
 "Zhang":
-  - firstanem: ["Yingxue"]
+  - firstname: ["Yingxue"]
     url: https://scholar.google.com/citations?user=4bsYpogAAAAJ
+
+  - firstname: ["Rui"]
+    url: https://www.ruizhang.info/
 
 "He":
   - firstname: ["Xiuqiang"]
