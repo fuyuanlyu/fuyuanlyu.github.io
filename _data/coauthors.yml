@@ -1,6 +1,9 @@
 "Tang":
   - firstname: ["Xing"]
     url: https://xingt-tang.github.io/
+  
+  - firstname: ["Ruiming"]
+    url: https://scholar.google.com/citations?user=fUtHww0AAAAJ
 
 "Liu":
   - firstname: ["Xue", "Steve"]
@@ -32,3 +35,15 @@
 "Zhang":
   - firstname: ["Rui"]
     url: https://www.ruizhang.info/
+
+"He":
+  - firstname: ["Xiuqiang"]
+    url: https://scholar.google.com/citations?user=3lprwmsAAAAJ
+
+"Guo":
+  - firstname: ["Huifeng"]
+    url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
+
+"Zhang":
+  - firstanem: ["Yingxue"]
+    url: https://scholar.google.com/citations?user=4bsYpogAAAAJ
