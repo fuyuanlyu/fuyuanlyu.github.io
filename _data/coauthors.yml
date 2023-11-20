@@ -16,6 +16,10 @@
   - firstname: ["Chen"]
     url: https://allenjack.github.io/
 
+"Ming":
+  - firstname: ["Zhong"]
+    url: https://scholar.google.com/citations?user=CnLP3-gAAAAJ
+
 "Chen":
   - firstname: ["Xi", "Alex"]
     url: https://sites.google.com/site/xichenmcgill/
@@ -50,6 +54,10 @@
 "Guo":
   - firstname: ["Huifeng"]
     url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
+
+"Zhao":
+  - firstname: ["Xiangyu"]
+    url: https://zhaoxyai.github.io/
 
 "Zhu":
   - firstname: ["Hong"]
