@@ -17,8 +17,9 @@ nav_order: 5
 
 ## Industrial
 
-- Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023
-- Research Intern, Huawei Noah’s Ark Lab, Shenzhen Research Center, Mar. 2021 ~ Aug. 2021
+Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
+<!-- - Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023 -->
+<!-- - Research Intern, Huawei Noah’s Ark Lab, Shenzhen Research Center, Mar. 2021 ~ Aug. 2021 -->
 
 
 ## Selected Awards

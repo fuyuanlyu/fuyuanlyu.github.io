@@ -2,8 +2,8 @@
   - firstname: ["Xing"]
     url: https://xingt-tang.github.io/
   
-  - firstname: ["Ruiming"]
-    url: https://scholar.google.com/citations?user=fUtHww0AAAAJ
+  # - firstname: ["Ruiming"]
+  #   url: https://scholar.google.com/citations?user=fUtHww0AAAAJ
 
 "Liu":
   - firstname: ["Xue", "Steve"]
@@ -36,32 +36,32 @@
   - firstname: ["Fernando"]
     url: https://841.io/
 
-"Zhang":
-  - firstname: ["Yingxue"]
-    url: https://scholar.google.com/citations?user=4bsYpogAAAAJ
+# "Zhang":
+#   - firstname: ["Yingxue"]
+#     url: https://scholar.google.com/citations?user=4bsYpogAAAAJ
 
-  - firstname: ["Rui"]
-    url: https://www.ruizhang.info/
+#   - firstname: ["Rui"]
+#     url: https://www.ruizhang.info/
 
 "He":
   - firstname: ["Xiuqiang"]
     url: https://scholar.google.com/citations?user=3lprwmsAAAAJ
 
-"Hu":
-  - firstname: ["Yaochen"]
-    url: https://hyclex.github.io/
+# "Hu":
+#   - firstname: ["Yaochen"]
+#     url: https://hyclex.github.io/
 
-"Guo":
-  - firstname: ["Huifeng"]
-    url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
+# "Guo":
+#   - firstname: ["Huifeng"]
+#     url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
 
 "Zhao":
   - firstname: ["Xiangyu"]
     url: https://zhaoxyai.github.io/
 
 "Zhu":
-  - firstname: ["Hong"]
-    url: https://scholar.google.ca/citations?user=zdECypAAAAAJ
+  # - firstname: ["Hong"]
+  #   url: https://scholar.google.ca/citations?user=zdECypAAAAAJ
 
   - firstname: ["Yuecai"]
     url: https://scholar.google.ca/citations?user=BsJ6qYUAAAAJ
