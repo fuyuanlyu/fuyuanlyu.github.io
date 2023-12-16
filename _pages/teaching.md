@@ -24,6 +24,7 @@ Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 
 ## Selected Awards
 
+- NeurIPS Finanical Aid, 2023
 - SIGIR Travel Grant for CIKM, 2022
 - Wolfe Fellowship in Sci & Tech, 2019-2020
 - Grad Excellence Award, 2019-2024
