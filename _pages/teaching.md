@@ -17,17 +17,21 @@ nav_order: 5
 
 ## Industrial
 
-Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
+- FiT, Tencent, Shenzhen, Jan. 2024 ~ Now
+- Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 <!-- - Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023 -->
 <!-- - Research Intern, Huawei Noah’s Ark Lab, Shenzhen Research Center, Mar. 2021 ~ Aug. 2021 -->
 
 
 ## Selected Awards
 
-- NeurIPS Finanical Aid, 2023
+- NeurIPS Scholar Award, 2023
+- McGill GREAT Award for NeurIPS, 2023
 - SIGIR Travel Grant for CIKM, 2022
-- Wolfe Fellowship in Sci & Tech, 2019-2020
+- Faculty of Science Graduate Supplement Award, 2022-2024
 - Grad Excellence Award, 2019-2024
+- Natural Sciences and Engineering Research Council of Canada, 2019-2020\&2022-2024
+- Wolfe Fellowship in Sci & Tech, 2019-2020
 - Zhiyuan Honor Degree of Engineering of Shanghai Jiao Tong University(1%), 2019
 - Zhiyuan Oversea Research Scholarship (1st class) of Shanghai Jiao Tong University, 2019
 - Zhiyuan Outstanding Student Scholarship of Shanghai Jiao Tong University(5%), 2019
@@ -36,6 +40,7 @@ Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 ## Academic Service
 
 - Reviewer:
+  - 2024: KDD, IJCAI 
   - 2023: WWW, AAAI, CIKM
 
 ## Teaching & Mentoring
