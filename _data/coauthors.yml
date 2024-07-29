@@ -1,3 +1,27 @@
+
+"Chen":
+  - firstname: ["Xi", "Alex"]
+    url: https://sites.google.com/site/xichenmcgill/
+
+"Diaz":
+  - firstname: ["Fernando"]
+    url: https://841.io/
+
+# "Guo":
+#   - firstname: ["Huifeng"]
+#     url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
+
+"He":
+  - firstname: ["Xiuqiang"]
+    url: https://scholar.google.com/citations?user=3lprwmsAAAAJ
+
+"Hu":
+  - firstname: ["Chengming"]
+    url: https://sites.google.com/view/chengminghu/home/
+  
+  # - firstname: ["Yaochen"]
+  #  url: https://hyclex.github.io/
+
 "Tang":
   - firstname: ["Xing"]
     url: https://xingt-tang.github.io/
@@ -20,21 +44,24 @@
   - firstname: ["Zhong"]
     url: https://scholar.google.com/citations?user=CnLP3-gAAAAJ
 
-"Chen":
-  - firstname: ["Xi", "Alex"]
-    url: https://sites.google.com/site/xichenmcgill/
+"Peng":
+  - firstname: ["Wenhui"]
+    url: https://scholar.google.com/citations?user=VTb36HsAAAAJ
+
+"Sun":
+  - firstname: ["Zexu"]
+    url: https://scholar.google.com/citations?user=1NXzf0AAAAAJ
+
+"Wang":
+  - firstname: ["Ju"]
+    url: https://faculty.nwu.edu.cn/ju/en/index.htm
+
+  - firstname: ["Liangzhu", "Leon"]
+    url: https://www.concordia.ca/faculty/liangzhu-wang.html
 
 "Wu":
   - firstname: ["Haolun"]
     url: https://haolun-wu.netlify.app/
-
-"Hu":
-  - firstname: ["Chengming"]
-    url: https://sites.google.com/view/chengminghu/home/
-
-"Diaz":
-  - firstname: ["Fernando"]
-    url: https://841.io/
 
 # "Zhang":
 #   - firstname: ["Yingxue"]
@@ -42,18 +69,6 @@
 
 #   - firstname: ["Rui"]
 #     url: https://www.ruizhang.info/
-
-"He":
-  - firstname: ["Xiuqiang"]
-    url: https://scholar.google.com/citations?user=3lprwmsAAAAJ
-
-# "Hu":
-#   - firstname: ["Yaochen"]
-#     url: https://hyclex.github.io/
-
-# "Guo":
-#   - firstname: ["Huifeng"]
-#     url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
 
 "Zhao":
   - firstname: ["Xiangyu"]
@@ -66,6 +81,3 @@
   - firstname: ["Yuecai"]
     url: https://scholar.google.ca/citations?user=BsJ6qYUAAAAJ
 
-"Sun":
-  - firstname: ["Zexu"]
-    url: https://scholar.google.com/citations?user=1NXzf0AAAAAJ
