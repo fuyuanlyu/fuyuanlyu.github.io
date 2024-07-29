@@ -10,6 +10,7 @@ nav_order: 5
 ## Education
 
 - Ph.D. of Computer Science, School of Computer Science, McGill University, Canada, Sep. 2019 ~ Now
+- Visiting Research Student, School of Computer Science, City University of Hong Kong, Hong Kong SAR, Mar. 2024 ~ Now
 - Visiting Research Student, School of Computer Science and Engineering, Nanyang Technological University, Singapore, Sep. 2018 ~ Feb. 2019
 - Zhiyuan Honor Degree of Engineering, Shanghai Jiao Tong University, China, Sep 2015 ~ Jun. 2019
 - Bachelor of Science, School of Electronics, Information and Electrical Engineering, Shanghai Jiao Tong University, China, Sep 2015 ~ Jun. 2019
@@ -17,6 +18,7 @@ nav_order: 5
 
 ## Industrial
 
+FiT Tencent, Shenzhen, Jan. 2024 ~ Now
 Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 <!-- - Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023 -->
 <!-- - Research Intern, Huawei Noah’s Ark Lab, Shenzhen Research Center, Mar. 2021 ~ Aug. 2021 -->
@@ -36,6 +38,7 @@ Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 ## Academic Service
 
 - Reviewer:
+  - 2024: AAAI, CIKM, NeurIPS, KDD
   - 2023: WWW, AAAI, CIKM
 
 ## Teaching & Mentoring
