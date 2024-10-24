@@ -18,6 +18,7 @@ nav_order: 5
 
 ## Industrial
 
+Borealis.ai, Montreal, Jan. 2025 ~ May. 2025
 FiT Tencent, Shenzhen, Jan. 2024 ~ Sep. 2024
 Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 <!-- - Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023 -->
