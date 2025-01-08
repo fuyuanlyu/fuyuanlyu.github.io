@@ -79,11 +79,14 @@
   - firstname: ["Kexin"]
     url: https://kexin-kxzhang.github.io/
 
+  - firstname: ["Qiyuan"]
+    url: https://scholar.google.com/citations?user=7LZAo0EAAAAJ
+
 #   - firstname: ["Yingxue"]
 #     url: https://scholar.google.com/citations?user=4bsYpogAAAAJ
 
-#   - firstname: ["Rui"]
-#     url: https://www.ruizhang.info/
+  - firstname: ["Rui"]
+    url: https://www.ruizhang.info/
 
 "Zhao":
   - firstname: ["Xiangyu"]

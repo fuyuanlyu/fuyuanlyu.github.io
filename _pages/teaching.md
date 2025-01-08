@@ -18,7 +18,7 @@ nav_order: 5
 
 ## Industrial
 
-- Borealis.ai, Montreal, Jan. 2025 ~ May. 2025
+- RBC Borealis, Montreal, Jan. 2025 ~ now
 - FiT Tencent, Shenzhen, Jan. 2024 ~ Sep. 2024
 - Quantum Technology, Montreal, Nov. 2021 ~ Jun. 2023
 <!-- - Research Intern, Huawei Noah’s Ark Lab, Montreal Research Center, Nov. 2021 ~ Jun. 2023 -->
@@ -27,6 +27,7 @@ nav_order: 5
 
 ## Selected Awards
 
+- National Scholarship for Outstanding Oversea Students, 2024
 - NeurIPS Finanical Aid, 2023
 - SIGIR Travel Grant for CIKM, 2022
 - Wolfe Fellowship in Sci & Tech, 2019-2020
@@ -39,7 +40,8 @@ nav_order: 5
 ## Academic Service
 
 - Reviewer:
-  - 2024: AAAI, CIKM, NeurIPS, KDD
+  - 2025: KDD, AAAI, ICLR, AISTAT, WWW, ICML
+  - 2024: AAAI, CIKM, NeurIPS, KDD, TPAMI
   - 2023: WWW, AAAI, CIKM
 
 ## Teaching & Mentoring
@@ -47,10 +49,10 @@ nav_order: 5
 - Teaching:
   - COMP 303 Software Design, Teaching Assistant, McGill University, 2020 Winter
 - Mentoring:
-  - Carlone Scott on Automatic Data Labeling, 2024 Summer, Mila Mentorship Program
+  - Carlone Scott on Automatic Data Labeling, 2024 Summer & Fall, Mila Mentorship Program
   - Qiyuan Zhang on LLM Evaluation, 2024 Winter & Summer
   - Kexin Zhang(now RA@UCSD) on Recommender System, 2024 Winter
-  - Tim Yang & Tom Yang on LLM-based Feature Selection, 2024
+  - Tim Yang & Tom Yang on LLM-based Feature Selection, 2024 Winter
   - Aasheesh Singh(now MLE@Vector) on Federated Prediction, 2023 Summer & Fall, Mila Mentorship Program
   - Shaoxiang Qin on Fourier Neural Operator, 2023-2024
 
