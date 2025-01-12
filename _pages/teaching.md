@@ -26,7 +26,7 @@ nav_order: 5
 
 
 ## Selected Awards
-
+- Excellent Reviewer for KDD, 2025
 - National Scholarship for Outstanding Oversea Students, 2024
 - NeurIPS Finanical Aid, 2023
 - SIGIR Travel Grant for CIKM, 2022
