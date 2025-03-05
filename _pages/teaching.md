@@ -49,6 +49,8 @@ nav_order: 5
 - Teaching:
   - COMP 303 Software Design, Teaching Assistant, McGill University, 2020 Winter
 - Mentoring:
+  - Helen Zhao on Classicial ML, 2025 Winter, McGill BRIDGE Mentorship Program
+  - Dowoo Kim on Uncertainty for Treatment Effect Estimation, 2025 Winter, McGill BRIDGE Mentorship Program
   - Carlone Scott on Automatic Data Labeling, 2024 Summer & Fall, Mila Mentorship Program
   - Qiyuan Zhang on LLM Evaluation, 2024 Winter & Summer
   - Kexin Zhang(now RA@UCSD) on Recommender System, 2024 Winter
