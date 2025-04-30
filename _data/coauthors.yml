@@ -11,9 +11,12 @@
   - firstname: ["Kaize"]
     url: https://kaize0409.github.io/
 
-# "Guo":
+"Guo":
 #   - firstname: ["Huifeng"]
 #     url: https://scholar.google.com/citations?user=jlBcPn8AAAAJ
+
+  - firstname: ["Zhihan"]
+    url: https://zhihan-guo.github.io/
 
 "He":
   - firstname: ["Xiuqiang"]
@@ -25,6 +28,10 @@
   
   # - firstname: ["Yaochen"]
   #  url: https://hyclex.github.io/
+
+"King":
+  - firstname: ["Irwin"]
+    url: https://www.cse.cuhk.edu.hk/irwin.king/
 
 "Tang":
   - firstname: ["Xing"]
@@ -72,8 +79,14 @@
   - firstname: ["Ju"]
     url: https://faculty.nwu.edu.cn/ju/en/index.htm
 
+  - firstname: ["Lei"]
+    url: https://demoleiwang.github.io/HomePage/
+
   - firstname: ["Liangzhu", "Leon"]
     url: https://www.concordia.ca/faculty/liangzhu-wang.html
+
+  - firstname: ["Yufei"]
+    url: https://garyyufei.github.io/
 
 "Wu":
   - firstname: ["Haolun"]
@@ -91,6 +104,9 @@
 
   - firstname: ["Rui"]
     url: https://www.ruizhang.info/
+
+  - firstname: ["Weixu"]
+    url: https://mila.quebec/en/directory/weixu-zhang
 
 "Zhao":
   - firstname: ["Xiangyu"]
