@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was invited to give a talk on test-time scaling at [Multimodal Weekly](https://www.youtube.com/playlist?list=PLvqwYT_ECloZPB2BsBerHXxMpLGr2xuw9) at [Twelve Lab](https://www.twelvelabs.io/). Thanks for the invite, [James](https://jameskle.com/)!
+I was invited to give a talk on test-time scaling at Multimodal Weekly at Twelve Lab. Thanks for the invite, James!
