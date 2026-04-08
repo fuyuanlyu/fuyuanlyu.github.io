@@ -3,6 +3,9 @@
   - firstname: ["Xi", "Alex"]
     url: https://sites.google.com/site/xichenmcgill/
 
+  - firstname: ["Yankai"]
+    url: https://yankai-chen.github.io/
+
 "Diaz":
   - firstname: ["Fernando"]
     url: https://841.io/
@@ -24,6 +27,10 @@
 "He":
   - firstname: ["Xiuqiang"]
     url: https://scholar.google.com/citations?user=3lprwmsAAAAJ
+
+"Hou":
+  - firstname: ["Yupeng"]
+    url: https://yupenghou.com/
 
 "Hu":
   - firstname: ["Chengming"]
@@ -94,6 +101,10 @@
 "Wu":
   - firstname: ["Haolun"]
     url: https://haolun-wu.netlify.app/
+
+"Yuan":
+  - firstname: ["Ye"]
+    url: https://stevenyuan666.github.io/
 
 "Zhang":
   - firstname: ["Kexin"]
